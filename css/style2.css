@@ -1,0 +1,9 @@
+thead{
+	background-color: red;
+}
+td{
+	background-color: white;
+}
+td :hover{
+	background-color: red;
+}
