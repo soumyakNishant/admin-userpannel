@@ -137,6 +137,11 @@ $error="Something went wrong. Please try again";
                             <input type="text" name="email" class="form-control" required>
                             </div>
                             </div>
+			    
+			    <label class="col-sm-1 control-label">Confirm Email<span style="color:red">*</span></label>
+                            <div class="col-sm-5">
+                            <input type="text" name="confirm email" class="form-control" required>
+                            </div>
 
                             <div class="form-group">
                             <label class="col-sm-1 control-label">Password<span style="color:red">*</span></label>
