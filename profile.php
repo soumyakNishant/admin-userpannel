@@ -19,6 +19,7 @@ if(isset($_POST['submit']))
 	$name=$_POST['name'];
 	$email=$_POST['email'];
 	$mobileno=$_POST['mobile'];
+	$password=$_POST['password'];
 	$designation=$_POST['designation'];
 	$idedit=$_POST['editid'];
 	$image=$_POST['image'];
